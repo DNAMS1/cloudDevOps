@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "ThAmCo.Products\\bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/32371a14-29b2-4278-9b7f-9acd5ec9cb9a/resourceGroups/ThAmCo/providers/Microsoft.Web/sites/ThAmCoProducts"
+}
