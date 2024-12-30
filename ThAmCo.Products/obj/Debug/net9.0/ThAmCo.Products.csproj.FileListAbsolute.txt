@@ -32,3 +32,11 @@ C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\obj\Debug\net9.0\refint\ThAmCo.Prod
 C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\obj\Debug\net9.0\ThAmCo.Products.pdb
 C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\obj\Debug\net9.0\ThAmCo.Products.genruntimeconfig.cache
 C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\obj\Debug\net9.0\ref\ThAmCo.Products.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASRAD\Downloads\1st\ThAmCo.Products\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
